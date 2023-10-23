@@ -1,11 +1,11 @@
-About ubermag
-=============
+About ubermag-feedstock
+=======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/ubermag-feedstock/blob/main/LICENSE.txt)
 
 Home: http://ubermag.github.io/
 
 Package license: BSD-3-Clause
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/ubermag-feedstock/blob/main/LICENSE.txt)
 
 Summary: Meta package for the Ubermag project.
 
