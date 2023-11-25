@@ -21,9 +21,9 @@ requirements:
   run:
     - python >=3.8
     - jupyterlab >=3.0
-    - discretisedfield ==0.90.0
+    - discretisedfield ==0.90.1
     - mag2exp ==0.62.2
-    - micromagneticdata ==0.65.1
+    - micromagneticdata ==0.65.2
     - micromagneticmodel ==0.63.2
     - micromagnetictests ==0.63.1
     - mumax3c ==0.2.0
